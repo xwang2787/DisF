@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="C:\Users\phoeb\.vscode\bootstrap-5.3.3-dist\bootstrap-5.3.3-dist\css\bootstrap-grid.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet"/>
+        <title> Phoebe's Website </title>
+    </head>
+    <body>
+        <nav class="navbar">
+            <p>
+                <a class="m-2" href="index">About Me</a>
+                <a class="m-2" href="my-work">My Work</a>
+            </p>
+        </nav>
+        <section class="m-3">
+            <h1><strong>About Me</strong>  </h1>
+            <p1> Hello, my name is Phoebe Wang, and I am a freshman here at University of Wisconsin-Madison.  </p1>
+            <p> I am from Minnesota, but I was born in China.</p2>
+            <p>I enjoy painting, city walk, and journaling! </p>
+            <h2><em>Keywords about me: </em></h2>
+            <ul>
+                <li>sunsets</li>
+                <li>watermelon</li>
+                <li>Mars (my cat)</li>
+                <li>fashion</li>
+                <li>foodie</li>
+            </ul>     
+            <img src="me.jpg" alt="A picture of myself at Minnesota State Fair!"  width="400"/>
+        </section>
+    </body>
+</html>

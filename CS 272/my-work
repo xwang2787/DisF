@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="C:\Users\phoeb\.vscode\bootstrap-5.3.3-dist\bootstrap-5.3.3-dist\css\bootstrap-utilities.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet"/>
+        <title> Phoebe's Website </title>
+    </head>
+    <body>
+        <nav class="navbar">
+            <p>
+                <a class="m-2" href="index">About Me</a>
+                <a class="m-2" href="my-work">My Work</a>
+            </p>
+        </nav>
+        <section class="m-3">
+            <h1><Strong>My Work</Strong></h1>
+            <a href = "https://cs272-wordpress.cs.wisc.edu/f24/xwang2787/wp-content/uploads/2024/09/ENGL-1305W-Public-Action-Project-Slides.pdf" target="_blank">Here's the link to a research project I did about Hormel Meats</a>
+            <p> </p>
+
+            <table>
+                <caption>
+                  <em>Number of Art Works I Did</em>
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Year</th>
+                    <th scope="col">Number of Art Works</th>
+                     </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">2021</th>
+                    <td>three</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2022</th>
+                    <td>four</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2023</th>
+                    <td> five</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">2024</th>
+                    <td>one</td>
+                  </tr>
+                </tbody>
+              </table>
+
+            <h2> Here are some of the art works</h2>
+            <img src="portfolio - breath.jpg" alt="watercolor painting, underwater"  width="300"/>
+            <img src="portfolio - dream.jpg" alt="acrylic painting of mountains and clouds"  width="300"/>
+            <img src="portfolio - minneapolis night.jpg" alt="acrylic painting of Minneapolis at night"  width="300"/>
+            <img src="portfolio - reflection.jpg" alt="pencil sketch of a man, two pictures overlayed"  width="300"/>
+
+            <h2><em>Clubs I participated in in high school: </em></h2>
+            <ul>
+                <li>National Honors Society</li>
+                <li>Science Olympiad</li>
+                <li>Cross Country</li>
+                <li>Korean Culture Club</li>
+                <li>UNICEF</li>
+            </ul>     
+        </section>
+    </body>
+</html>
